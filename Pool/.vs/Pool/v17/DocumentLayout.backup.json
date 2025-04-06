@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arina\\Pool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB173FFD-51C8-175A-2D69-0009DD10609A}|Assembly-CSharp.csproj|c:\\users\\arina\\pool\\assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB173FFD-51C8-175A-2D69-0009DD10609A}|Assembly-CSharp.csproj|solutionrelative:assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB173FFD-51C8-175A-2D69-0009DD10609A}|Assembly-CSharp.csproj|c:\\users\\arina\\pool\\assets\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB173FFD-51C8-175A-2D69-0009DD10609A}|Assembly-CSharp.csproj|solutionrelative:assets\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\Pool\\Assets\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Bullet.cs",
+              "ToolTip": "C:\\Users\\Arina\\Pool\\Assets\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:09:17.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjectPool.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\Pool\\Assets\\ObjectPool.cs",
+              "RelativeDocumentMoniker": "Assets\\ObjectPool.cs",
+              "ToolTip": "C:\\Users\\Arina\\Pool\\Assets\\ObjectPool.cs",
+              "RelativeToolTip": "Assets\\ObjectPool.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:57:05.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
